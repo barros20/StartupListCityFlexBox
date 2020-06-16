@@ -1,0 +1,204 @@
+body{
+    background-color: #EEEEEE;
+}
+
+.container{
+    max-width: 1300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+}
+
+ 
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-top: 120px;
+    font-size: 3.5em;
+    margin-left: 30px;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin-left: 30px;
+}
+
+.country:hover {
+    background-color: yellow;
+    cursor: pointer; /* alterando o icone do mouse quando passar sobre a div */
+    -webkit-filter: grayscale(100%);
+    transition: 1s;
+}
+
+.country p {
+    font-size: 30px;
+    text-align: center;
+    line-height: 5 ;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.country a{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 200px;
+    margin-left: 80px;
+    text-decoration: none;
+
+}
+
+.bg-saopaulo{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/skyscraper-south-america-pinheiros-river-brazil-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bg-barcelona{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/barcelona.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-boston{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/boston.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-buenosaires{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/buenosaires.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-california{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/california.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-canada{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/canada.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-cancun{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/cancun.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-dubai{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/dubai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-eua{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/eua.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-fortaleza{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/fortaleza.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-istanbul{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/istanbul.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-kualalumpur{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/kualalumpur.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-lasvegas{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/lasvegas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-madrid{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/madrid.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-newyork{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/newyork.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-riodejaneiro{
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    background-image: url(../images/riodejaneiro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-left: 35px;
+}
+
